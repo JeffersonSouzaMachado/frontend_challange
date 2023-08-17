@@ -1,6 +1,12 @@
 # frontend_challange
 
-A new Flutter project.
+Olá, se está vendo esse repo, é porque faz parte da equipe MyProd, agradeço a oportunidade!
+
+o app está em modo debug, então só rodar direto no dispositivo.
+Foi inserido uma tela de login, porém está sem ação, então para acessar o app
+basta tocar no botão entrar.
+
+como estava sem internet, não consegui fazer as validações com a api do github.
 
 ## Getting Started
 
