@@ -17,7 +17,7 @@ customTabItem(String tabName, String quantity) {
           child: Center(
               child: Text(
             quantity,
-            style: TextStyle(fontWeight: FontWeight.bold),
+            style: const TextStyle(fontWeight: FontWeight.bold),
           )),
         ),
       )

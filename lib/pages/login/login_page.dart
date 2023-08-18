@@ -76,7 +76,7 @@ class _LoginPageState extends State<LoginPage> {
                 child: ElevatedButton(
                     onPressed: () {
                       log('Touched on login');
-                      Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => Home()));
+                      Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => const Home()));
                     },
                     child: const Text('Entrar')),
               ),
